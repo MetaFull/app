@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.metafull">
+    package="com.metafull.musicmap">
    <application
-        android:label="metafull"
+        android:label="MusicMap"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

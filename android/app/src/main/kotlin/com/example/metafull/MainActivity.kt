@@ -1,4 +1,4 @@
-package com.example.metafull
+package com.metafull.musicmap
 
 import io.flutter.embedding.android.FlutterActivity
 
